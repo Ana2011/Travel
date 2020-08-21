@@ -5,3 +5,9 @@ img {
 body {
     background-color:#99ff99;
 }
+td {
+    text-align: center;
+}
+table, td {
+    border: 2px solid black;
+}
